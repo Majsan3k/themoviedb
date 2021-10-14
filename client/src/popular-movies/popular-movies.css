@@ -1,0 +1,10 @@
+.movieList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: initial;
+}
+
+.sourceHeader{
+    margin-top: 2rem;
+}
